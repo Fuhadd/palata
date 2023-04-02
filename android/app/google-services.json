@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653894577731",
+    "project_id": "palata-2dbc5",
+    "storage_bucket": "palata-2dbc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653894577731:android:740a5dbf88677cfccdaef6",
+        "android_client_info": {
+          "package_name": "com.urbanhive.palata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653894577731-kte28s8pqlcjaenr3ej49glvojhq04hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4aFCq3845VjEjAfSmRH8hAt_g23V3f0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653894577731-kte28s8pqlcjaenr3ej49glvojhq04hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
